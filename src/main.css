@@ -1,0 +1,122 @@
+.main {
+    margin: 0 auto;
+    display: block;
+    /* justify-content: center; */
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: 650px;
+}
+.currency_rate{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    /* background-color: rgb(196, 16, 16); */
+    border-bottom: 0.1px solid;
+}
+.kzt {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 30px;
+    /* background-color: aqua; */
+}
+.kazakh {
+    margin-left: 10px;
+    width: 30px;
+    height: 28px;
+    /* background-color: blue; */
+}
+
+.other_cur {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-top: 30px;
+    height: 150px;
+    /* background-color: yellow; */
+}
+.usd {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    height: 150px;
+    background-color: grey;
+    border: 1px solid;
+}
+.usd * {
+    padding-top: 50px;
+}
+.eur {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    height: 150px;
+    background-color: grey;
+    border: 1px solid;
+}
+.eur * {
+    padding-top: 50px;
+}
+.rub{
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    height: 150px;
+    background-color: grey;
+    border: 1px solid;
+}
+.rub * {
+    padding-top: 50px;
+}
+.cny{
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    height: 150px;
+    background-color: grey;
+    border: 1px solid;
+}
+.cny * {
+    padding-top: 50px;
+}
+
+
+
+.currency_converter{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    /* background-color: aquamarine; */
+}
+.convert_text {
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.converter {
+    display:inline-block;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 95%;
+    height: 200px;
+    background-color: grey;
+}
+.first_in{
+    margin-left: 100px;
+    margin-top: 70px;
+    width: 300px;
+    height: 30px;
+}
+.first_sel {
+    margin-left: 10px;
+    height: 30px;
+}
+
+.second_in{
+    margin-left: 100px;
+    margin-top: 70px;
+    width: 300px;
+    height: 30px;
+}
+.second_sel {
+    margin-left: 10px;
+    height: 30px;
+}
