@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alkenpalken.github.io/static/css/main.d0ee4b5f.css",
-    "main.js": "/alkenpalken.github.io/static/js/main.c3500cf4.js",
-    "static/js/787.baad1f60.chunk.js": "/alkenpalken.github.io/static/js/787.baad1f60.chunk.js",
-    "static/media/currency.png": "/alkenpalken.github.io/static/media/currency.36a1752d5a90fdedf7ea.png",
-    "index.html": "/alkenpalken.github.io/index.html",
-    "main.d0ee4b5f.css.map": "/alkenpalken.github.io/static/css/main.d0ee4b5f.css.map",
-    "main.c3500cf4.js.map": "/alkenpalken.github.io/static/js/main.c3500cf4.js.map",
-    "787.baad1f60.chunk.js.map": "/alkenpalken.github.io/static/js/787.baad1f60.chunk.js.map"
+    "main.css": "/floppy/static/css/main.b54cb785.css",
+    "main.js": "/floppy/static/js/main.b3fb6992.js",
+    "static/js/787.baad1f60.chunk.js": "/floppy/static/js/787.baad1f60.chunk.js",
+    "static/media/currency.png": "/floppy/static/media/currency.36a1752d5a90fdedf7ea.png",
+    "index.html": "/floppy/index.html",
+    "main.b54cb785.css.map": "/floppy/static/css/main.b54cb785.css.map",
+    "main.b3fb6992.js.map": "/floppy/static/js/main.b3fb6992.js.map",
+    "787.baad1f60.chunk.js.map": "/floppy/static/js/787.baad1f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0ee4b5f.css",
-    "static/js/main.c3500cf4.js"
+    "static/css/main.b54cb785.css",
+    "static/js/main.b3fb6992.js"
   ]
 }
