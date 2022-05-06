@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd485d5a.css",
-    "main.js": "/static/js/main.ffd050f9.js",
-    "static/js/787.baad1f60.chunk.js": "/static/js/787.baad1f60.chunk.js",
-    "static/media/currency.png": "/static/media/currency.36a1752d5a90fdedf7ea.png",
-    "index.html": "/index.html",
-    "main.fd485d5a.css.map": "/static/css/main.fd485d5a.css.map",
-    "main.ffd050f9.js.map": "/static/js/main.ffd050f9.js.map",
-    "787.baad1f60.chunk.js.map": "/static/js/787.baad1f60.chunk.js.map"
+    "main.css": "/alkenpalken.github.io/static/css/main.d0ee4b5f.css",
+    "main.js": "/alkenpalken.github.io/static/js/main.c3500cf4.js",
+    "static/js/787.baad1f60.chunk.js": "/alkenpalken.github.io/static/js/787.baad1f60.chunk.js",
+    "static/media/currency.png": "/alkenpalken.github.io/static/media/currency.36a1752d5a90fdedf7ea.png",
+    "index.html": "/alkenpalken.github.io/index.html",
+    "main.d0ee4b5f.css.map": "/alkenpalken.github.io/static/css/main.d0ee4b5f.css.map",
+    "main.c3500cf4.js.map": "/alkenpalken.github.io/static/js/main.c3500cf4.js.map",
+    "787.baad1f60.chunk.js.map": "/alkenpalken.github.io/static/js/787.baad1f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd485d5a.css",
-    "static/js/main.ffd050f9.js"
+    "static/css/main.d0ee4b5f.css",
+    "static/js/main.c3500cf4.js"
   ]
 }
